@@ -20,8 +20,8 @@ I'm Franco Gabriel Osco Cuellar, a Systems and Software Engineering student focu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 
 ## Contact
