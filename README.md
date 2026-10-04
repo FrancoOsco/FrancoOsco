@@ -3,12 +3,11 @@
 I'm Franco Gabriel Osco Cuellar, a Systems and Software Engineering student focused on backend development and building reliable web applications.
 
 - 🎓 I'm currently studying Systems and Software Engineering at UTP (Universidad Tecnológica del Perú).
-- 💻 I mainly work with Java and Spring Boot for backend development.
-- 🗄️ I use PostgreSQL for database management and Docker to run and manage my development database environments.
-- 🌐 I also build web applications using Astro.
+- 💻 I work with Java and Spring Boot for backend development.
+- 🗄️ I use PostgreSQL for database management and Docker to run and manage development environments.
+- 🌐 I've been building web applications mainly with the Astro framework.
 - ☁️ I'm currently expanding my knowledge of cloud computing, AWS, Linux, and DevOps practices.
-- 🧪 I'm improving my software testing skills with JUnit and Mockito.
-- 🌏 My long-term goal is to pursue international opportunities in software engineering, with a particular interest in Japan.
+- 🧪 I apply JUnit and Mockito for unit testing and backend validation.
 
 ---
 
