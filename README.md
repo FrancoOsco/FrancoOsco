@@ -12,7 +12,7 @@ I'm Franco Gabriel Osco Cuellar, a Systems and Software Engineering student focu
 
 ---
 
-## Technologies
+**Technologies**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -24,6 +24,6 @@ I'm Franco Gabriel Osco Cuellar, a Systems and Software Engineering student focu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 
-## Contact
+**Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-osco-4931172a6)
