@@ -26,4 +26,6 @@ I'm Franco Gabriel Osco Cuellar, a Systems and Software Engineering student focu
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-osco-4931172a6)
+<a href="https://www.linkedin.com/in/franco-osco-4931172a6" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
